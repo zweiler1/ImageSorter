@@ -1,0 +1,12 @@
+C:\VSProjects\ImageSorter\ImageSorter\bin\Debug\ImageSorter.exe.config
+C:\VSProjects\ImageSorter\ImageSorter\bin\Debug\ImageSorter.exe
+C:\VSProjects\ImageSorter\ImageSorter\bin\Debug\ImageSorter.pdb
+C:\VSProjects\ImageSorter\ImageSorter\obj\Debug\ImageSorter.csproj.AssemblyReference.cache
+C:\VSProjects\ImageSorter\ImageSorter\obj\Debug\ImageSorter.csproj.SuggestedBindingRedirects.cache
+C:\VSProjects\ImageSorter\ImageSorter\obj\Debug\ImageSorter.CategoryNamePopup.resources
+C:\VSProjects\ImageSorter\ImageSorter\obj\Debug\ImageSorter.Bildsortierer.resources
+C:\VSProjects\ImageSorter\ImageSorter\obj\Debug\ImageSorter.Properties.Resources.resources
+C:\VSProjects\ImageSorter\ImageSorter\obj\Debug\ImageSorter.csproj.GenerateResource.cache
+C:\VSProjects\ImageSorter\ImageSorter\obj\Debug\ImageSorter.csproj.CoreCompileInputs.cache
+C:\VSProjects\ImageSorter\ImageSorter\obj\Debug\ImageSorter.exe
+C:\VSProjects\ImageSorter\ImageSorter\obj\Debug\ImageSorter.pdb
